@@ -1,0 +1,105 @@
+match_no,date,local_time,utc_offset,stage,group,home,away,score,city,venue_city,metro,country
+,2026-06-11,13:00,-6,Group stage,A,Mexico,South Africa,2-0 (1-0),Mexico City,Mexico City,Mexico City,MX
+,2026-06-11,20:00,-6,Group stage,A,South Korea,Czech Republic,2-1 (0-0),Guadalajara,Guadalajara (Zapopan),Guadalajara,MX
+,2026-06-12,15:00,-4,Group stage,B,Canada,Bosnia & Herzegovina,1-1 (0-1),Toronto,Toronto,Toronto,CA
+,2026-06-12,18:00,-7,Group stage,D,USA,Paraguay,4-1 (3-0),Los Angeles,Los Angeles (Inglewood),Los Angeles,US
+,2026-06-13,12:00,-7,Group stage,B,Qatar,Switzerland,1-1 (0-1),San Francisco Bay Area,San Francisco Bay Area (Santa Clara),San Francisco Bay Area,US
+,2026-06-13,18:00,-4,Group stage,C,Brazil,Morocco,1-1 (1-1),New York/New Jersey,New York/New Jersey (East Rutherford),New York/New Jersey,US
+,2026-06-13,21:00,-4,Group stage,C,Haiti,Scotland,0-1 (0-1),Boston,Boston (Foxborough),Boston,US
+,2026-06-13,21:00,-7,Group stage,D,Australia,Turkey,2-0 (1-0),Vancouver,Vancouver,Vancouver,CA
+,2026-06-14,12:00,-5,Group stage,E,Germany,Curaçao,7-1 (3-1),Houston,Houston,Houston,US
+,2026-06-14,15:00,-5,Group stage,F,Netherlands,Japan,2-2 (0-0),Dallas,Dallas (Arlington),Dallas,US
+,2026-06-14,19:00,-4,Group stage,E,Ivory Coast,Ecuador,1-0 (0-0),Philadelphia,Philadelphia,Philadelphia,US
+,2026-06-14,20:00,-6,Group stage,F,Sweden,Tunisia,5-1 (2-1),Monterrey,Monterrey (Guadalupe),Monterrey,MX
+,2026-06-15,12:00,-7,Group stage,G,Belgium,Egypt,1-1 (0-1),Seattle,Seattle,Seattle,US
+,2026-06-15,12:00,-4,Group stage,H,Spain,Cape Verde,0-0 (0-0),Atlanta,Atlanta,Atlanta,US
+,2026-06-15,18:00,-7,Group stage,G,Iran,New Zealand,2-2 (1-1),Los Angeles,Los Angeles (Inglewood),Los Angeles,US
+,2026-06-15,18:00,-4,Group stage,H,Saudi Arabia,Uruguay,1-1 (1-0),Miami,Miami (Miami Gardens),Miami,US
+,2026-06-16,15:00,-4,Group stage,I,France,Senegal,3-1 (0-0),New York/New Jersey,New York/New Jersey (East Rutherford),New York/New Jersey,US
+,2026-06-16,18:00,-4,Group stage,I,Iraq,Norway,1-4 (1-2),Boston,Boston (Foxborough),Boston,US
+,2026-06-16,20:00,-5,Group stage,J,Argentina,Algeria,3-0 (1-0),Kansas City,Kansas City,Kansas City,US
+,2026-06-16,21:00,-7,Group stage,J,Austria,Jordan,3-1 (1-0),San Francisco Bay Area,San Francisco Bay Area (Santa Clara),San Francisco Bay Area,US
+,2026-06-17,12:00,-5,Group stage,K,Portugal,DR Congo,1-1 (1-1),Houston,Houston,Houston,US
+,2026-06-17,15:00,-5,Group stage,L,England,Croatia,4-2 (2-2),Dallas,Dallas (Arlington),Dallas,US
+,2026-06-17,19:00,-4,Group stage,L,Ghana,Panama,1-0 (0-0),Toronto,Toronto,Toronto,CA
+,2026-06-17,20:00,-6,Group stage,K,Uzbekistan,Colombia,1-3 (0-1),Mexico City,Mexico City,Mexico City,MX
+,2026-06-18,12:00,-4,Group stage,A,Czech Republic,South Africa,1-1 (1-0),Atlanta,Atlanta,Atlanta,US
+,2026-06-18,12:00,-7,Group stage,B,Switzerland,Bosnia & Herzegovina,4-1 (0-0),Los Angeles,Los Angeles (Inglewood),Los Angeles,US
+,2026-06-18,15:00,-7,Group stage,B,Canada,Qatar,6-0 (3-0),Vancouver,Vancouver,Vancouver,CA
+,2026-06-18,19:00,-6,Group stage,A,Mexico,South Korea,1-0 (0-0),Guadalajara,Guadalajara (Zapopan),Guadalajara,MX
+,2026-06-19,12:00,-7,Group stage,D,USA,Australia,2-0 (2-0),Seattle,Seattle,Seattle,US
+,2026-06-19,18:00,-4,Group stage,C,Scotland,Morocco,0-1 (0-1),Boston,Boston (Foxborough),Boston,US
+,2026-06-19,20:00,-7,Group stage,D,Turkey,Paraguay,0-1 (0-1),San Francisco Bay Area,San Francisco Bay Area (Santa Clara),San Francisco Bay Area,US
+,2026-06-19,20:30,-4,Group stage,C,Brazil,Haiti,3-0 (3-0),Philadelphia,Philadelphia,Philadelphia,US
+,2026-06-20,12:00,-5,Group stage,F,Netherlands,Sweden,5-1 (2-0),Houston,Houston,Houston,US
+,2026-06-20,16:00,-4,Group stage,E,Germany,Ivory Coast,2-1 (0-1),Toronto,Toronto,Toronto,CA
+,2026-06-20,19:00,-5,Group stage,E,Ecuador,Curaçao,0-0 (0-0),Kansas City,Kansas City,Kansas City,US
+,2026-06-20,22:00,-6,Group stage,F,Tunisia,Japan,0-4 (0-2),Monterrey,Monterrey (Guadalupe),Monterrey,MX
+,2026-06-21,12:00,-7,Group stage,G,Belgium,Iran,0-0 (0-0),Los Angeles,Los Angeles (Inglewood),Los Angeles,US
+,2026-06-21,12:00,-4,Group stage,H,Spain,Saudi Arabia,4-0 (3-0),Atlanta,Atlanta,Atlanta,US
+,2026-06-21,18:00,-7,Group stage,G,New Zealand,Egypt,1-3 (1-0),Vancouver,Vancouver,Vancouver,CA
+,2026-06-21,18:00,-4,Group stage,H,Uruguay,Cape Verde,2-2 (2-1),Miami,Miami (Miami Gardens),Miami,US
+,2026-06-22,12:00,-5,Group stage,J,Argentina,Austria,2-0 (1-0),Dallas,Dallas (Arlington),Dallas,US
+,2026-06-22,17:00,-4,Group stage,I,France,Iraq,3-0 (1-0),Philadelphia,Philadelphia,Philadelphia,US
+,2026-06-22,20:00,-4,Group stage,I,Norway,Senegal,3-2 (1-0),New York/New Jersey,New York/New Jersey (East Rutherford),New York/New Jersey,US
+,2026-06-22,20:00,-7,Group stage,J,Jordan,Algeria,1-2 (1-0),San Francisco Bay Area,San Francisco Bay Area (Santa Clara),San Francisco Bay Area,US
+,2026-06-23,12:00,-5,Group stage,K,Portugal,Uzbekistan,5-0 (3-0),Houston,Houston,Houston,US
+,2026-06-23,16:00,-4,Group stage,L,England,Ghana,0-0 (0-0),Boston,Boston (Foxborough),Boston,US
+,2026-06-23,19:00,-4,Group stage,L,Panama,Croatia,0-1 (0-0),Toronto,Toronto,Toronto,CA
+,2026-06-23,20:00,-6,Group stage,K,Colombia,DR Congo,1-0 (0-0),Guadalajara,Guadalajara (Zapopan),Guadalajara,MX
+,2026-06-24,12:00,-7,Group stage,B,Switzerland,Canada,2-1 (0-0),Vancouver,Vancouver,Vancouver,CA
+,2026-06-24,12:00,-7,Group stage,B,Bosnia & Herzegovina,Qatar,3-1 (2-1),Seattle,Seattle,Seattle,US
+,2026-06-24,18:00,-4,Group stage,C,Scotland,Brazil,0-3 (0-2),Miami,Miami (Miami Gardens),Miami,US
+,2026-06-24,18:00,-4,Group stage,C,Morocco,Haiti,4-2 (2-2),Atlanta,Atlanta,Atlanta,US
+,2026-06-24,19:00,-6,Group stage,A,Czech Republic,Mexico,0-3 (0-0),Mexico City,Mexico City,Mexico City,MX
+,2026-06-24,19:00,-6,Group stage,A,South Africa,South Korea,1-0 (0-0),Monterrey,Monterrey (Guadalupe),Monterrey,MX
+,2026-06-25,16:00,-4,Group stage,E,Curaçao,Ivory Coast,0-2 (0-1),Philadelphia,Philadelphia,Philadelphia,US
+,2026-06-25,16:00,-4,Group stage,E,Ecuador,Germany,2-1 (1-1),New York/New Jersey,New York/New Jersey (East Rutherford),New York/New Jersey,US
+,2026-06-25,18:00,-5,Group stage,F,Japan,Sweden,1-1 (0-0),Dallas,Dallas (Arlington),Dallas,US
+,2026-06-25,18:00,-5,Group stage,F,Tunisia,Netherlands,1-3 (0-2),Kansas City,Kansas City,Kansas City,US
+,2026-06-25,19:00,-7,Group stage,D,Turkey,USA,3-2 (2-1),Los Angeles,Los Angeles (Inglewood),Los Angeles,US
+,2026-06-25,19:00,-7,Group stage,D,Paraguay,Australia,0-0 (0-0),San Francisco Bay Area,San Francisco Bay Area (Santa Clara),San Francisco Bay Area,US
+,2026-06-26,15:00,-4,Group stage,I,Norway,France,1-4 (1-3),Boston,Boston (Foxborough),Boston,US
+,2026-06-26,15:00,-4,Group stage,I,Senegal,Iraq,5-0 (1-0),Toronto,Toronto,Toronto,CA
+,2026-06-26,18:00,-6,Group stage,H,Uruguay,Spain,0-1 (0-1),Guadalajara,Guadalajara (Zapopan),Guadalajara,MX
+,2026-06-26,19:00,-5,Group stage,H,Cape Verde,Saudi Arabia,0-0 (0-0),Houston,Houston,Houston,US
+,2026-06-26,20:00,-7,Group stage,G,Egypt,Iran,1-1 (1-1),Seattle,Seattle,Seattle,US
+,2026-06-26,20:00,-7,Group stage,G,New Zealand,Belgium,1-5 (0-1),Vancouver,Vancouver,Vancouver,CA
+,2026-06-27,17:00,-4,Group stage,L,Panama,England,0-2 (0-0),New York/New Jersey,New York/New Jersey (East Rutherford),New York/New Jersey,US
+,2026-06-27,17:00,-4,Group stage,L,Croatia,Ghana,2-1 (1-0),Philadelphia,Philadelphia,Philadelphia,US
+,2026-06-27,19:30,-4,Group stage,K,Colombia,Portugal,0-0 (0-0),Miami,Miami (Miami Gardens),Miami,US
+,2026-06-27,19:30,-4,Group stage,K,DR Congo,Uzbekistan,3-1 (0-1),Atlanta,Atlanta,Atlanta,US
+,2026-06-27,21:00,-5,Group stage,J,Algeria,Austria,3-3 (1-1),Kansas City,Kansas City,Kansas City,US
+,2026-06-27,21:00,-5,Group stage,J,Jordan,Argentina,1-3 (0-2),Dallas,Dallas (Arlington),Dallas,US
+73,2026-06-28,12:00,-7,Round of 32,,South Africa,Canada,0-1 (0-0),Los Angeles,Los Angeles (Inglewood),Los Angeles,US
+76,2026-06-29,12:00,-5,Round of 32,,Brazil,Japan,2-1 (0-1),Houston,Houston,Houston,US
+74,2026-06-29,16:30,-4,Round of 32,,Germany,Paraguay,"1-1 a.e.t. (1-1, 0-1), 3-4 pen.",Boston,Boston (Foxborough),Boston,US
+75,2026-06-29,19:00,-6,Round of 32,,Netherlands,Morocco,"1-1 a.e.t. (1-1, 0-0), 2-3 pen.",Monterrey,Monterrey (Guadalupe),Monterrey,MX
+78,2026-06-30,12:00,-5,Round of 32,,Ivory Coast,Norway,1-2 (0-1),Dallas,Dallas (Arlington),Dallas,US
+77,2026-06-30,17:00,-4,Round of 32,,France,Sweden,3-0 (1-0),New York/New Jersey,New York/New Jersey (East Rutherford),New York/New Jersey,US
+79,2026-06-30,19:00,-6,Round of 32,,Mexico,Ecuador,2-0 (1-0),Mexico City,Mexico City,Mexico City,MX
+80,2026-07-01,12:00,-4,Round of 32,,England,DR Congo,2-1 (0-1),Atlanta,Atlanta,Atlanta,US
+82,2026-07-01,13:00,-7,Round of 32,,Belgium,Senegal,"3-2 a.e.t. (2-2, 0-1)",Seattle,Seattle,Seattle,US
+81,2026-07-01,17:00,-7,Round of 32,,USA,Bosnia & Herzegovina,2-0 (1-0),San Francisco Bay Area,San Francisco Bay Area (Santa Clara),San Francisco Bay Area,US
+84,2026-07-02,12:00,-7,Round of 32,,Spain,Austria,3-0 (1-0),Los Angeles,Los Angeles (Inglewood),Los Angeles,US
+83,2026-07-02,19:00,-4,Round of 32,,Portugal,Croatia,2-1 (0-0),Toronto,Toronto,Toronto,CA
+85,2026-07-02,20:00,-7,Round of 32,,Switzerland,Algeria,2-0 (1-0),Vancouver,Vancouver,Vancouver,CA
+88,2026-07-03,13:00,-5,Round of 32,,Australia,Egypt,"1-1 a.e.t. (1-1, 0-1), 2-4 pen.",Dallas,Dallas (Arlington),Dallas,US
+86,2026-07-03,18:00,-4,Round of 32,,Argentina,Cape Verde,"3-2 a.e.t. (1-1, 1-0)",Miami,Miami (Miami Gardens),Miami,US
+87,2026-07-03,20:30,-5,Round of 32,,Colombia,Ghana,1-0 (1-0),Kansas City,Kansas City,Kansas City,US
+90,2026-07-04,12:00,-5,Round of 16,,Canada,Morocco,0-3 (0-0),Houston,Houston,Houston,US
+89,2026-07-04,17:00,-4,Round of 16,,Paraguay,France,0-1 (0-0),Philadelphia,Philadelphia,Philadelphia,US
+91,2026-07-05,16:00,-4,Round of 16,,Brazil,Norway,1-2 (0-0),New York/New Jersey,New York/New Jersey (East Rutherford),New York/New Jersey,US
+92,2026-07-05,18:00,-6,Round of 16,,Mexico,England,2-3 (1-2),Mexico City,Mexico City,Mexico City,MX
+93,2026-07-06,14:00,-5,Round of 16,,Portugal,Spain,0-1 (0-0),Dallas,Dallas (Arlington),Dallas,US
+94,2026-07-06,17:00,-7,Round of 16,,USA,Belgium,1-4 (1-2),Seattle,Seattle,Seattle,US
+95,2026-07-07,12:00,-4,Round of 16,,Argentina,Egypt,3-2 (0-1),Atlanta,Atlanta,Atlanta,US
+96,2026-07-07,13:00,-7,Round of 16,,Switzerland,Colombia,"0-0 a.e.t. (0-0, 0-0), 4-3 pen.",Vancouver,Vancouver,Vancouver,CA
+97,2026-07-09,16:00,-4,Quarter-final,,France,Morocco,2-0 (0-0),Boston,Boston (Foxborough),Boston,US
+98,2026-07-10,12:00,-7,Quarter-final,,Spain,Belgium,2-1 (1-1),Los Angeles,Los Angeles (Inglewood),Los Angeles,US
+99,2026-07-11,17:00,-4,Quarter-final,,Norway,England,"1-2 a.e.t. (1-1, 1-1)",Miami,Miami (Miami Gardens),Miami,US
+100,2026-07-11,20:00,-5,Quarter-final,,Argentina,Switzerland,"3-1 a.e.t. (1-1, 1-0)",Kansas City,Kansas City,Kansas City,US
+101,2026-07-14,14:00,-5,Semi-final,,France,Spain,0-2 (0-1),Dallas,Dallas (Arlington),Dallas,US
+102,2026-07-15,15:00,-4,Semi-final,,England,Argentina,1-2 (0-0),Atlanta,Atlanta,Atlanta,US
+103,2026-07-18,17:00,-4,Match for third place,,France,England,4-6 (0-4),Miami,Miami (Miami Gardens),Miami,US
+104,2026-07-19,15:00,-4,Final,,Spain,Argentina,"1-0 a.e.t. (0-0, 0-0)",New York/New Jersey,New York/New Jersey (East Rutherford),New York/New Jersey,US
