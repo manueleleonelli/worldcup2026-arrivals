@@ -1,0 +1,11 @@
+area,matches,window_days_if_disjoint,distinct_window_days,min_days_between_matches
+New York/New Jersey,8,32,27,2
+Los Angeles,8,32,28,3
+San Francisco Bay Area,6,24,20,3
+Miami,7,28,26,3
+Atlanta,8,32,28,3
+Seattle,6,24,22,2
+Dallas,9,36,29,2
+Houston,7,28,23,3
+Boston,7,28,24,3
+Philadelphia,6,24,20,2
