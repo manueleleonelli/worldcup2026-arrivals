@@ -1,8 +1,6 @@
 # Forty-eight hours before kick-off: International air arrivals at the 2026 World Cup host airports
 
-Data and code for the research note of the same title by Manuele Leonelli (School of Science and Technology, IE University, Madrid).
-
-The note follows non-US-citizen air arrivals, day by day, at the sixteen airports serving ten US host areas of the 2026 FIFA World Cup, using the passport-control counts published by U.S. Customs and Border Protection, and compares them with nineteen US airports that hosted no matches.
+Data and code for the research note of the same title. The note follows non-US-citizen air arrivals, day by day, at the sixteen airports serving ten US host areas of the 2026 FIFA World Cup, using the passport-control counts published by U.S. Customs and Border Protection, and compares them with nineteen US airports that hosted no matches.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manueleleonelli/worldcup2026-arrivals/blob/main/analysis.ipynb)
 
